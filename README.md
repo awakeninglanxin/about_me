@@ -56,7 +56,7 @@ A research framework connecting Viktor Schauberger's vortex mathematical-physics
 ## 📬 Contact
 
 - **WeChat**: henrycaihao
-- **GitHub**: [@henrycaihao](https://github.com/henrycaihao)
+- **GitHub**: [@awakeninglanxin](https://github.com/awakeninglanxin/-)
 
 ---
 
